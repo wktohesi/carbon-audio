@@ -1,0 +1,8 @@
+.main {
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, Tahoma, sans‑serif;
+  margin: 4rem;
+  height: calc(100vh - 8rem);
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
